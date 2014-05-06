@@ -1,0 +1,15 @@
+C:\Users\'\Desktop\Tabletop\Labs\LAB4\Lab4_2\Lab4_2\bin\Release\Lab4_2.exe
+C:\Users\'\Desktop\Tabletop\Labs\LAB4\Lab4_2\Lab4_2\bin\Release\Lab4_2.pdb
+C:\Users\'\Desktop\Tabletop\Labs\LAB4\Lab4_2\Lab4_2\obj\Release\MainWindow.baml
+C:\Users\'\Desktop\Tabletop\Labs\LAB4\Lab4_2\Lab4_2\obj\Release\norrbottenControl.baml
+C:\Users\'\Desktop\Tabletop\Labs\LAB4\Lab4_2\Lab4_2\obj\Release\MainWindow.g.cs
+C:\Users\'\Desktop\Tabletop\Labs\LAB4\Lab4_2\Lab4_2\obj\Release\norrbottenControl.g.cs
+C:\Users\'\Desktop\Tabletop\Labs\LAB4\Lab4_2\Lab4_2\obj\Release\App.g.cs
+C:\Users\'\Desktop\Tabletop\Labs\LAB4\Lab4_2\Lab4_2\obj\Release\Lab4_2_MarkupCompile.cache
+C:\Users\'\Desktop\Tabletop\Labs\LAB4\Lab4_2\Lab4_2\obj\Release\Lab4_2.g.resources
+C:\Users\'\Desktop\Tabletop\Labs\LAB4\Lab4_2\Lab4_2\obj\Release\Lab4_2.exe
+C:\Users\'\Desktop\Tabletop\Labs\LAB4\Lab4_2\Lab4_2\obj\Release\Lab4_2.pdb
+C:\Users\Danne\Desktop\Lab4_2\Lab4_2\obj\Release\Lab4_2.exe
+C:\Users\Danne\Desktop\Lab4_2\Lab4_2\obj\Release\Lab4_2.pdb
+C:\Lab4_2\Lab4_2\obj\Release\Lab4_2.exe
+C:\Lab4_2\Lab4_2\obj\Release\Lab4_2.pdb
